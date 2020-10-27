@@ -1,0 +1,25 @@
+.card {
+    padding: 2%;
+    margin: 2%;
+  }
+  .container {
+    display: grid;
+  }
+  
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .col-sm {
+    padding: 1%;
+    margin: 1%;
+  }
+  .btn {
+    width: 100%;
+  }
+  
+  i {
+    margin: 2%;
+  }
+  
